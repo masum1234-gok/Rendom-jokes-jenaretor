@@ -1,0 +1,45 @@
+
+.button {
+    margin: 40px auto;
+    height: 200px;
+    display: flex;
+    padding: 40px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    font-family: "Noto Sans", sans-serif;
+}
+button{
+    font-family: "Noto Sans", sans-serif;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 900;
+    color: #000000;
+    margin-top: 30px;
+}
+.joke {
+    font-family: "Noto Sans", sans-serif;
+    height: 50px;
+    font-size: 20px;
+    color: #2b1c1c;
+    text-align: center;
+    margin-top: 20px;
+    width: 400px;
+    padding: 10px;
+}
+button:active {
+    box-shadow: inset 6px 6px 8px 0px #a3b1c6, inset -5px -5px 20px #ffffff;
+    /* transform: translateY(4px); */
+}
+.jodi{
+    font-family: "Noto Sans", sans-serif;
+    background: #e0e5ec;
+    border-radius:20px ;
+    box-shadow: 10px 10px 20px #a3b1c6, -10px -10px 20px #ffffff;
+
+}
