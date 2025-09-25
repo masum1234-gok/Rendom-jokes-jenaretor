@@ -36,7 +36,7 @@ HTML, CSS ও JavaScript দিয়ে নির্মিত — ব্যবহ�
 
 ```bash
 # রিপোজিটরি ক্লোন করুন
-git clone https://github.com/masum1234-gok/Rendom-jokes-jenaretor.git
+git clone https://github.com/mir-md-masum-billah/Rendom-jokes-jenaretor
 cd Rendom-jokes-jenaretor
 
 # সরাসরি ব্রাউজারে খুলুন:
@@ -62,7 +62,8 @@ open index.html
 ---
 
 ## 📬 যোগাযোগ
-- GitHub রিপো: [masum1234-gok/Rendom-jokes-jenaretor](https://github.com/masum1234-gok/Rendom-jokes-jenaretor)  
+- GitHub রিপো: [mir-md-masum-billah/Rendom-jokes-jenaretor](https://github.com/mir-md-masum-billah/Rendom-jokes-jenaretor)  
 
 ---
+
 
